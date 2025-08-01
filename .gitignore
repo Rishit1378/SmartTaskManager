@@ -1,0 +1,21 @@
+# Ignore installation files
+*.msi
+*.exe
+*.zip
+*.iso
+
+# Ignore database files
+*.mdf
+*.ldf
+*.bak
+
+# Ignore SQL Server binaries
+sql server/
+
+# Optional: Ignore IDE or system files
+.vscode/
+*.log
+*.DS_Store
+
+ 
+ 
