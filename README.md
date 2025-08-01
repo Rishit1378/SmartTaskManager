@@ -5,7 +5,7 @@
 - **Frontend**: HTML, CSS, JavaScript, Bootstrap
 - **Backend**: .NET Core Web API (C#)
 - **Microservice**: Python Flask
-- **Database**: SQL Server / SQLite
+- **Database**: SQL Server
 
 ## Project Structure
 
